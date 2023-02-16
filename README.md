@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Added License Checker 25.0.1
+See in (https://www.npmjs.com/package/license-checker)
